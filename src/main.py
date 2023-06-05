@@ -1,0 +1,3 @@
+import check
+
+print("main")
